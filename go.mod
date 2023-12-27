@@ -1,3 +1,3 @@
-module github/meshimeshi/go-import-public
+module github.com/meshimeshi/go-import-public
 
 go 1.20
